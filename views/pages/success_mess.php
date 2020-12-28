@@ -1,0 +1,1 @@
+<h1>Thank you for your order, we will contact with you soon</h1>
